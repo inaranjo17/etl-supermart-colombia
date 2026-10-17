@@ -9,6 +9,7 @@ from src.extraction import extraer_datos
 from src.transformation import transformar_datos
 from src.loading import cargar_datos
 from src.analysis import generar_visualizaciones, generar_reporte_ejecutivo
+from src.generar_reporte_pdf import generar_reporte_pdf
 
 
 RUTA_VENTAS = "data/input/ventas_crudas.csv"
@@ -57,6 +58,8 @@ def main() -> None:
         metricas_calidad=metricas_calidad,
         ruta_reporte=RUTA_REPORTE
     )
+
+    generar_reporte_pdf()
 
     print("=" * 60)
     print("PIPELINE ETL EJECUTADO CORRECTAMENTE")
