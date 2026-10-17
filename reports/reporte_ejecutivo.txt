@@ -1,0 +1,47 @@
+REPORTE EJECUTIVO
+Proyecto: Pipeline ETL para análisis de ventas retail
+Cliente: SuperMart Colombia
+Empresa consultora: EAN TechRetail Solutions
+
+1. RESUMEN GENERAL
+--------------------------------------------------
+Ventas totales: $1,036.50
+Número de transacciones: 20
+Ticket promedio: $51.83
+Unidades vendidas: 47
+
+2. DESEMPEÑO COMERCIAL
+--------------------------------------------------
+Ciudad con mayores ventas: Cali
+Categoría líder: Electrónicos
+Tienda líder: T003 - Cali
+
+3. INDICADORES DE CALIDAD DE DATOS
+--------------------------------------------------
+Registros originales: 20
+Registros finales válidos: 20
+Clientes nulos corregidos: 2
+Órdenes duplicadas eliminadas: 0
+Fechas inválidas eliminadas: 0
+Registros con valores numéricos inválidos: 0
+
+4. HALLAZGOS PRINCIPALES
+--------------------------------------------------
+- La categoría 'Electrónicos' concentra la mayor parte de las ventas,
+  por lo que representa una oportunidad para fortalecer inventario,
+  promociones y estrategias comerciales.
+- La ciudad de Cali lidera el desempeño en ventas y puede
+  considerarse como referencia para replicar buenas prácticas comerciales.
+- La tienda T003 de Cali presenta el mayor
+  aporte económico dentro de la red de tiendas analizadas.
+
+5. RECOMENDACIONES
+--------------------------------------------------
+- Priorizar disponibilidad de inventario en la categoría líder.
+- Analizar el comportamiento de los clientes sin identificación para
+  mejorar la captura de datos en el punto de venta.
+- Estandarizar la captura de fechas y datos de cliente desde el origen.
+- Utilizar el Data Mart generado como base para tableros de Power BI,
+  Looker Studio u otra herramienta de visualización.
+
+Reporte generado automáticamente por el pipeline ETL.
