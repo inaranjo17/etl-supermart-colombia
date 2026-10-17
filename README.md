@@ -11,7 +11,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-4C8CBF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Proyecto académico de Ingeniería de Datos**  
+**Proyecto académico de Sistemas de Información**  
 **Cliente:** SuperMart Colombia  
 **Empresa consultora:** EAN TechRetail Solutions  
 
@@ -285,7 +285,7 @@ Estos hallazgos pueden apoyar decisiones sobre inventario, promociones, expansi�
 
 <div align="center">
 
-**[Tu nombre completo]**  
+**[Isabella Naranjo, Nicolas Varon, Nicole Daza]**  
 Ingeniería de Sistemas · EAN  
 Rol: **Ingeniero de Datos**  
 
